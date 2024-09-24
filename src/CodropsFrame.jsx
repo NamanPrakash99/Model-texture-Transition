@@ -13,17 +13,11 @@ const CodropsFrame = () => {
         >
           Article
         </a>
-        {/* <a
-          className="frame__prev" 
-          target="_blank" 
-          href="https://tympanus.net/codrops/demos/"
-        >
-          All demos
-        </a> */}
+        
         <a
           className="frame__github"
           target="_blank" 
-          href="https://github.com/mohAmineBrs/codrops-noise-transition/"
+          href="https://github.com/NamanPrakash99/Model-texture-Transition"
         >
           Github
         </a>
